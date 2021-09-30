@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #5c5c5c;
+  }
+
+p{
+    text-align: justify;
+    line-height: 1.5;
+    margin-left: 10px;
+    margin-right: 10px;
+}
